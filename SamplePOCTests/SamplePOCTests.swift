@@ -2,9 +2,7 @@
 //  SamplePOCTests.swift
 //  SamplePOCTests
 //
-//  Created by Vikas Pundora on 24/07/18.
-//  Copyright © 2018 Vikas Pundora. All rights reserved.
-//
+
 
 import XCTest
 @testable import SamplePOC
